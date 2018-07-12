@@ -1,0 +1,12 @@
+{
+  "name": "ps-graphql-fun",
+  "set": "psc-0.12.0",
+  "source": "https://github.com/Tehnix/ps-graphql-fun.git",
+  "depends": [
+    "functions",
+    "psci-support",
+    "console",
+    "effect",
+    "prelude"
+  ]
+}
